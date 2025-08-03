@@ -62,3 +62,14 @@ These random interactions might cause **unexpected crashes or bugs**, which are 
 | Disadvantage | Hard to reproduce or track issues |
 
 ---
+
+## 🔄 **When is Ad-hoc Testing Done?**
+
+| When                                     | Why                                          |
+| ---------------------------------------- | -------------------------------------------- |
+| After formal test cases are executed     | To find defects missed by scripted testing   |
+| When time is limited                     | Quick, focused testing without documentation |
+| During early builds or unstable releases | To catch obvious, early-stage bugs           |
+| Before release (last-minute testing)     | To ensure edge cases are handled properly    |
+
+---
