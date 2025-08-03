@@ -1,23 +1,5 @@
 
 ---
-
-## ✅ **What is Ad-hoc Testing?**
-
-Ad-hoc testing is an informal and unstructured way of testing where testers explore the application **without predefined test cases**, relying on their **intuition and experience** to uncover defects.
-
----
-
-## 🔄 **When is Ad-hoc Testing Done?**
-
-| When                                     | Why                                          |
-| ---------------------------------------- | -------------------------------------------- |
-| After formal test cases are executed     | To find defects missed by scripted testing   |
-| When time is limited                     | Quick, focused testing without documentation |
-| During early builds or unstable releases | To catch obvious, early-stage bugs           |
-| Before release (last-minute testing)     | To ensure edge cases are handled properly    |
-
----
-
 ## 🔍 **Types of Ad-hoc Testing**
 
 | Type                | Description                                                                                      | Example                                                                         |
